@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-class Top extends Component {
+class AddPost extends Component {
 
     render() {
         return (
             <div className="view">
-                <h1>Top 10</h1>
+                <h1>Lisa postitus</h1>
             </div>
         )
     }
 }
 
-export default Top;
+export default AddPost;

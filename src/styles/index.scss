@@ -34,6 +34,10 @@ body {
       justify-content: center;
       align-items: center;
 
+      &.active-nav {
+        background-color: coral;
+      }
+
       &:hover {
         background-color: lightgoldenrodyellow;
       }
